@@ -1,2 +1,2 @@
-# Mahesh
+# Example - repo
 Ex_repo
